@@ -1,0 +1,13 @@
+{
+  "name": "mathigon-applications",
+  "version": "0.0.1",
+  "description": "Applications of Mathematics by Mathigon",
+  "license": "CC BY-SA 4.0",
+  "scripts": {
+    "test": "yamllint content.yaml",
+    "prepublish": "npm test"
+  },
+  "devDependencies": {
+    "yaml-lint": "^1.2.4"
+  }
+}
