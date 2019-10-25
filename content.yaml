@@ -3,7 +3,7 @@ weather:
   color: "#3C394F"
   tags: tech calculus
   text: |
-    The weather is a fantastically complex system with billions of molecules interacting. This makes predicting the weather an incredibly difficult tasks even using the extensive network of weather stations satellites and the world&rsquo;s largest supercomputers.
+    The weather is a fantastically complex system with billions of molecules interacting. This makes predicting the weather an incredibly difficult tasks even using the extensive network of weather stations satellites and the world’s largest supercomputers.
 
     Fluids like the atmosphere follow a set of rules called the _Navier Stokes equations_. Unfortunately we don’t know a direct solution for these equations – one of the greatest unsolved problems in mathematics and one of the $1 million _Millennium Prize Problems_.
 
@@ -20,8 +20,8 @@ mri:
   title: MRI and Tomography
   tags: medicine algebra
   color: "#3BABE1"
-  text: MRI scanners can create 3-dimensional images of the human body by taking countless 2-dimensional &#8220;snapshots&#8221; from different directions. The process of recovering the original 3-dimensional model using these snapshots is called _tomography_ – and it wouldn&rsquo;t work without advanced mathematics such as _Radon Transforms_. Mathematics is quite literally saving lifes.
-  credit: Mark Lythgoe and Chloe Hutton Wellcome Images
+  text: MRI scanners can create 3-dimensional images of the human body by taking countless 2-dimensional “snapshots” from different directions. The process of recovering the original 3-dimensional model using these snapshots is called _tomography_ – and it wouldn’t work without advanced mathematics such as _Radon Transforms_. Mathematics is quite literally saving lifes.
+  image-credit: Mark Lythgoe and Chloe Hutton Wellcome Images
   links:
     - en.wikipedia.org/wiki/Radon_Transform
     - en.wikipedia.org/wiki/Physics_of_magnetic_resonance_imaging
@@ -39,7 +39,7 @@ finance:
   tags: statistics calculus finance graphtheory
   color: "#132E65"
   text: |
-    In financial mathematics traders can buy or sell stocks in a company commodities like oil and gold or _derivatives_ which are &#8220;virtual&#8221; goods whose prices are derived from the change of other things. For example you can buy _options_ which could allow you to buy or sell a stock at a particular price at some point in the future – if you still want to at that time.
+    In financial mathematics traders can buy or sell stocks in a company commodities like oil and gold or _derivatives_ which are “virtual” goods whose prices are derived from the change of other things. For example you can buy _options_ which could allow you to buy or sell a stock at a particular price at some point in the future – if you still want to at that time.
 
     Financial analyst have many different mathematical tools to help them make better decisions for example statistical models to analyse historic economic data or probability and _Stochastic calculus_ to predict the behaviour of financial markets. Particularly famous is the _Black-Scholes equation_ a partial differential eqaution used to find the correct value of derivatives.
 
@@ -59,7 +59,7 @@ internet:
 
     Without the mathematics of _queuing theory_ it would be impossible to guarantee a reliable service. Mathematical models using _Poisson processes_ all but guarantee that you will hear a dial tone when making a phone call.
 
-    Routing internet connections is much more difficult – requests arrive at an unpredictable rate and have a more variable duration. This led to the development of packet-switching: all data (websites emails or files) is split into small &#8220;packets&#8221; which are transmitted independently. This makes the network more efficient and robust but occasionally routers become overloaded with too many packets – and the connection fails.
+    Routing internet connections is much more difficult – requests arrive at an unpredictable rate and have a more variable duration. This led to the development of packet-switching: all data (websites emails or files) is split into small “packets” which are transmitted independently. This makes the network more efficient and robust but occasionally routers become overloaded with too many packets – and the connection fails.
 
     Some believe that the mathematics of _Fractals_ can help create a much more reliable internet service in the future.
   links:
@@ -81,14 +81,14 @@ cosmology:
   tags: science calculus
   color: "#102E5F"
   text: |
-    This may not be an actual &#8220;real-life&#8221; application but mathematics is used in almost every kind of scientific research.
+    This may not be an actual “real-life” application but mathematics is used in almost every kind of scientific research.
 
     One example is cosmology where mathematical equations can model the evolution of the universe from the Big Bang until today and can even predict what will happen to the universe in the future.
 
-    Our universe is expanding at a rapid speed and the rate of expansion follows the _Friedmann Equations_ which can be deduced from Einstein&rsquo;s field equations of gravitation. The fate of the universe depends on the amount of matter (= energy) in the universe and astronomical observations suggest the existence of _dark matter_ and _dark energy_. Mathematicians also use supercomputers to model the universe very shortly after the Big Bang.
+    Our universe is expanding at a rapid speed and the rate of expansion follows the _Friedmann Equations_ which can be deduced from Einstein’s field equations of gravitation. The fate of the universe depends on the amount of matter (= energy) in the universe and astronomical observations suggest the existence of _dark matter_ and _dark energy_. Mathematicians also use supercomputers to model the universe very shortly after the Big Bang.
 
-    These applications of mathematics may not seem &#8220;useful&#8221; today but they can almost certainly be used in technology at some point in the future…
-  credit: NASA / JPL
+    These applications of mathematics may not seem “useful” today but they can almost certainly be used in technology at some point in the future…
+  image-credit: NASA / JPL
   links:
     - en.wikipedia.org/wiki/Cosmology
     - map.gsfc.nasa.gov/universe/
@@ -112,13 +112,13 @@ cds:
   tags: algebra tech numbertheory media
   color: "#B90018"
   text: |
-    Data on CDs and DVDs is stored as a series of tiny &#8220;hills&#8221; and &#8220;valleys&#8221; engraved in the surface of the discs more than 10 times smaller than the width of a human hair.
+    Data on CDs and DVDs is stored as a series of tiny “hills” and “valleys” engraved in the surface of the discs more than 10 times smaller than the width of a human hair.
 
     Scratches and dust on the surface of the disk can destroy the hills and valleys together with the information they encode. This should mean that a DVD or CD should play incorectly or not at all.
 
     Mathematics can help solve this problem: data stored on discs is encoded using _Reed-Solomon codes_. These are designed in a way that even if parts of the data is missing or incorrect computers can use the remaining data to find and correct errors: to fill  the gaps.
 
-    This only works if a certain proportion of the data is correct so you can&rsquo;t play a CD which is completely scratched.
+    This only works if a certain proportion of the data is correct so you can’t play a CD which is completely scratched.
 
     Cross-interleaved Reed-Solomon codes used for CDs and DVDs are based on polynomials over finite fields.
   links:
@@ -135,7 +135,7 @@ glaciers:
     Unfortunately satellite images from above give limited information regarding the state of the entire ice shield or the processes underlying their melting. Probability and statistics can be used to analyse environmental data for example of ice thickness and composition.
 
     At the same time complex mathematical models using _differential equations_ and _thermodynamics_ can help scientists understand the interaction of wind sea ice ocean currents and heat transfer.
-  credit: S23678 via Wikipedia
+  image-credit: S23678 via Wikipedia
   links:
     - plus.maths.org/content/maths-and-climate-change-melting-arctic
     - www.ams.org/notices/200905/tx090500562p.pdf
@@ -165,7 +165,7 @@ gps:
   text: |
     To determine any location on Earth satellite navigation systems like GPS use signals from satellites which provide extremely accurate times. By finding their delay a computer can calculate how far away the satellites are. If you know the distance from at least three different satellites and the position of these satellites you can find the unique and exact position of the receiver on Earth.
 
-    For accuracy you have to take account of numerous physical issues: according to Special Relativity time moves faster for the satellite because it is moving so fast and slower because it is further from the Earth&rsquo;s gravitational field. Both effects are tiny and undetectable in everyday life. But without taking these effects into account GPS receivers would accumulated an error of 10 km per day!
+    For accuracy you have to take account of numerous physical issues: according to Special Relativity time moves faster for the satellite because it is moving so fast and slower because it is further from the Earth’s gravitational field. Both effects are tiny and undetectable in everyday life. But without taking these effects into account GPS receivers would accumulated an error of 10 km per day!
 
     A _metric space_ is the mathematical generalisation of measuring distances. Because of general relativity GPS receivers have to use the _Kerr metric_ rather than the usual Euclidean metric.
   links:
@@ -176,7 +176,7 @@ cars:
   title: Automotive Design
   tags: engineering calculus
   color: "#737280"
-  credit: © eMercedesBenz.com
+  image-credit: © eMercedesBenz.com
 
 codes:
   title: Codes and Communication
@@ -191,7 +191,7 @@ bridges:
   title: Building Bridges
   tags: calculus engineering
   color: "#9D232B"
-  credit: Matthew Hull Morgue File
+  image-credit: Matthew Hull Morgue File
   links:
     - plus.maths.org/content/millennial-wobbles
     - en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)
@@ -225,7 +225,7 @@ gambling:
   text: |
     Gambling is always a bad idea – because casinos and bookmakers know mathematics and they can adjust the odds of games and bets in ways that guarantee they will always win in the long run.
 
-    While it is impossible to use probability to predict the _next_ dice roll or roulette number you can accurately predict what might happen in the _next 1000_ dice rolls – this is called the _Law of Large Numbers_. Even a winning probability of 49% gives the &#8220;house&#8221; a sufficient &#8220;edge&#8221; to make great profits.
+    While it is impossible to use probability to predict the _next_ dice roll or roulette number you can accurately predict what might happen in the _next 1000_ dice rolls – this is called the _Law of Large Numbers_. Even a winning probability of 49% gives the “house” a sufficient “edge” to make great profits.
 
     You can also use game theory random walks and statistics to develop and test gambling strategies. Sports betting is particularly interesting because the odds change over time.
 
@@ -246,7 +246,7 @@ google:
     In order to find the most useful websites and display them at the top Google represents all pages on the internet in a gigantic _matrix_. The matrix knows about how the various websites are linked and you can use linear algebra probability and graph theory to find the most popular sites.
 
     Google uses mathematics for many other of its services: finding directions in Maps spam detection in Gmail voice recognition on Android text recognition when scanning books compressing YouTube videos detecting faces in images or translating text.
-  credit: John Marino via Wikipedia
+  image-credit: John Marino via Wikipedia
   links:
     - www.ams.org/samplings/feature-column/fcarc-pagerank
     - static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/38331.pdf
@@ -256,7 +256,7 @@ epidemics:
   title: Epidemics Analysis
   tags: medicine calculus graphtheory
   color: "#75AF02"
-  credit: dimshik stock.xchng
+  image-credit: dimshik stock.xchng
   links:
     - www.mathscareers.org.uk/article/epidemic-emergency/
     - en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease
@@ -266,7 +266,7 @@ navigation:
   title: Navigation
   tags: geometry tech
   color: "#AA5C25"
-  credit: Final Cut
+  image-credit: Final Cut
   links:
     - www.mathscareers.org.uk/article/navigation-numbers/
     - mathigon.org/world/Dimensions_and_Distortions
@@ -281,7 +281,7 @@ robotics:
   tags: engineering calculus algebra
   color: "#2454C0"
   text: Lie groups can be used in robotics to find the most efficient way to maneuver a robotic arm.
-  credit: technologybound.com
+  image-credit: technologybound.com
 
 football:
   title: Football Scoring
@@ -296,7 +296,7 @@ volcanoes:
   title: Volcano Monitoring
   tags: environment
   color: "#EE4500"
-  credit: Andrew J Swann via Wikipedia
+  image-credit: Andrew J Swann via Wikipedia
   links: [www.mathscareers.org.uk/article/gonna-blow/]
 
 lottery:
@@ -311,7 +311,7 @@ rollercoaster:
   text: |
     Designing a roller coaster is not easy: they have to be exciting but not jerky fast but able to brake quickly and most importantly they have to be safe.
 
-    Mathematics can be used to calculate the forces acting on roller coaster trains as they gain momentum and the structural support needed to support these forces. Mathematical equations and calculus can also be used to calculate the shape of a smooth track including loops &lsquo;corkscrews&rsquo; and many other features.
+    Mathematics can be used to calculate the forces acting on roller coaster trains as they gain momentum and the structural support needed to support these forces. Mathematical equations and calculus can also be used to calculate the shape of a smooth track including loops ‘corkscrews’ and many other features.
   links:
     - www.mathscareers.org.uk/article/twist-shout/
     - www.open.edu/openlearn/science-maths-technology/mathematics-and-statistics/rollercoaster-design
@@ -325,14 +325,14 @@ enigma:
   text: |
     During the second world war the German military used the _Enigma_ to encode secret messages. The Enigma consisted of two keyboards: as you type on one keyboard the encoded letters light up on the other one.
 
-    When you encipher text using the Enigma the letters in the alphabet are repeatedly &#8220;scrambled&#8221; using a series of rotors. After typing one letter these rotors move so that next time all letters are scrambled differently. Together with several other features this lead to more than _150 trillion_ possible ways in which secret messages could have been enciphered.
+    When you encipher text using the Enigma the letters in the alphabet are repeatedly “scrambled” using a series of rotors. After typing one letter these rotors move so that next time all letters are scrambled differently. Together with several other features this lead to more than _150 trillion_ possible ways in which secret messages could have been enciphered.
 
     Nevertheless the British mathematician Alan Turing managed to break the Enigma by building one of the first computers the _Bombe_.
 
     Even more complex than Enigma codes was the _Lorenz Cipher_. British mathematicians and cryptographers led by Max Newman built the first programmable digital computer _Colossus_ to also break this code.
 
     Though in great secrecy mathematics formed a significant part that led to the end and victory of the second world war.
-  credit: Rama via Wikimedia
+  image-credit: Rama via Wikimedia
   links:
     - en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma
     - plus.maths.org/content/exploring-enigma
@@ -342,7 +342,7 @@ transportation:
   tags: graphtheory statistics technology
   color: "#193C8F"
   text: |
-    Every day there are around 50000 commercial airline flights. All planes all luggage every crew and all passengers have to be at the right place at the right time and planes need to be serviced and refueled. Most importantly planes can&rsquo;t crash when arriving at any of the busy airports. This is an incredibly complex logistic challenge impossible without mathematics and _Operations research_.
+    Every day there are around 50000 commercial airline flights. All planes all luggage every crew and all passengers have to be at the right place at the right time and planes need to be serviced and refueled. Most importantly planes can’t crash when arriving at any of the busy airports. This is an incredibly complex logistic challenge impossible without mathematics and _Operations research_.
 
     In addition airlines want to save money by creating a more efficient network in which planes take the best possible routes and in which planes are never idle empty or out of service. This can be done using algorithms from _Graph theory_.
 
@@ -392,7 +392,7 @@ videogames:
     Computer games also have to create realistic water and animate moving and colliding physical objects. They often use numerical solutions to the appropriate _partial differential equations_ such as the _Navier-Stokes equations_ which model fluids.
 
     Finally computer programs have to generate random numbers to make the game more interesting and model the artificial intelligence of virtual players. This would not be possible without advanced mathematics.
-  credit: Game Maniacs via gamehdwall.com
+  image-credit: Game Maniacs via gamehdwall.com
   links:
     - www.mathscareers.org.uk/video/advancing-the-digital-arts/
     - www.mathscareers.org.uk/article/get-game/
@@ -408,7 +408,7 @@ carbon:
     Scientists can measure the amount of Carbon-14 still present in excavated bones. We can also estimate the original proportion of Carbon-14 and the rate of decay and use mathematics to calculate the time since which it has been decaying. This was the time when the plant or animal died.
 
     Mathematics can also help in other parts of archeology. For example the size of collected bones can be used to calculate the weight they had to support and hence the size of the corresponding animals or humans.
-  credit: king via fWallpapers.com
+  image-credit: king via fWallpapers.com
   links:
     - en.wikipedia.org/wiki/Radiocarbon_dating
     - www.mathscareers.org.uk/article/million-year-old-maths/
@@ -459,12 +459,12 @@ rockets:
   tags: engineering calculus
   color: "#661E0C"
   text: |
-    Before a rocket reaches space it has to overcome the enormous gravitational pull of the Earth. This is only possible with sufficient speed and fuel. More fuel makes the rocket heavier and harder to accelerate but the weight of the fuel also decreases during the flight. These and many other factors have to be taken into account when designing rockets and modelling their flight path. It&rsquo;s not rocket science – it&rsquo;s mathematics!
+    Before a rocket reaches space it has to overcome the enormous gravitational pull of the Earth. This is only possible with sufficient speed and fuel. More fuel makes the rocket heavier and harder to accelerate but the weight of the fuel also decreases during the flight. These and many other factors have to be taken into account when designing rockets and modelling their flight path. It’s not rocket science – it’s mathematics!
 
     In space the motion of rockets and satellites is still governed by gravity. In order for space shuttles to meet up with the ISS GPS and television satellites to be in the right place at the right time and for lunar modules to be able to land on the moon we need _differential equations_ and _spherical geometry_.
 
     Once a rocket or satellite is launched scientists on Earth have to communicate with it. But the long distance means that received signals contain _noise_ many small errors which  make data unreliable or even unusable. Mathematics presents various clever algorithms to encode data in a way that you can detect and even correct a certain amount of these errors after transmission.
-  credit: NASA
+  image-credit: NASA
   links:
     - exploration.grc.nasa.gov/education/rocket/rktpow.html
     - en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
@@ -490,7 +490,7 @@ crime:
 
     For example the behaviour of a burglar could be modeled as a _Random Walk_ thus allowing for more effective police patrols.
 
-    Mathematicians also worked with the LAPD to understand the development and dynamics of &#8220;crime hotspots&#8221;. Using probability statistics and _swarm dynamics_ they found that there are two kinds of hotspots which react very differently on police intervention.
+    Mathematicians also worked with the LAPD to understand the development and dynamics of “crime hotspots”. Using probability statistics and _swarm dynamics_ they found that there are two kinds of hotspots which react very differently on police intervention.
   links:
     - www.nsf.gov/news/news_summ.jsp?cntn_id=116357
     - www.psmag.com/science/mapping-crime-math-66351/
@@ -503,7 +503,7 @@ interest:
   title: Loans Interest Mortgages
   tags: finance statistics
   color: "#803A00"
-  credit: Elembis via Wikipedia
+  image-credit: Elembis via Wikipedia
   links:
     - www.mathscareers.org.uk/article/loan-sharks-loan-stars/
     - www.mathscareers.org.uk/article/house-prices/
@@ -521,10 +521,10 @@ aliens:
   text: |
     _Primes_ are the universal building blocks of numbers not just on Earth but everywhere in the universe. If radio signals from space contain the the sequence of prime numbers – 2 3 5 7 11 13 … – they would almost certainly indicate a non-natural origin and could be the starting point for communication with alien life.
 
-    A famous signal sent from Earth into space the Arecibo Message consists of a long string of 0s and 1s. The length of the message is the product of two prime numbers 23 &times; 73 = 1679 which should prompt alien astronomers to reassemble the 0s and 1s into a rectangular image with sides 23 and 73.
+    A famous signal sent from Earth into space the Arecibo Message consists of a long string of 0s and 1s. The length of the message is the product of two prime numbers 23 × 73 = 1679 which should prompt alien astronomers to reassemble the 0s and 1s into a rectangular image with sides 23 and 73.
 
     Mathematics can also help estimating the number of extraterrestrial civilisations which we might get to know at some point in the future: using the _Drake Equations_. By considering and estimating many different factors you can calculate that there could be between 1000 and 10 million planets in our Milky Way which are inhabited by intelligent life!
-  credit: C. Padilla NRAO/AUI/NSF
+  image-credit: C. Padilla NRAO/AUI/NSF
   links:
     - www.seti.org/seti-institute/project/details/early-seti-project-ozma-arecibo-message
     - en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence
@@ -544,7 +544,7 @@ data:
   text: |
     Data is everywhere around us and new data is created every time we browse the internet complete a survey or go shopping. Scientists collect data whenever they conduct an experiment and sometimes these data sets are so large that they need to invent entirely new technologies (like the internet) to process them.
 
-    To make sense of data we need statistics. Using mathematics we can convert a large collection of numbers – all of which are meaningless on their own – into very accurate information about the system which created the data. (The &#8220;system&#8221; could be a group of humans a scientific experiment or even the weather.) Statistics can also tell us if certain findings are valid or significant.
+    To make sense of data we need statistics. Using mathematics we can convert a large collection of numbers – all of which are meaningless on their own – into very accurate information about the system which created the data. (The “system” could be a group of humans a scientific experiment or even the weather.) Statistics can also tell us if certain findings are valid or significant.
 
     We need statistics in science engineering and academic research but also in everyday life – for example to interpret percentages and graphs in newspapers.
   links:
@@ -562,7 +562,7 @@ jpeg:
   title: Image Compression
   tags: algebra calculus technology
   color: "#FD9300"
-  credit: Rikai Morgue File
+  image-credit: Rikai Morgue File
   links:
     - en.wikipedia.org/wiki/JPEG
     - www.cse.iitk.ac.in/users/manindra/CS681/2005/Lecture7.pdf/
@@ -573,14 +573,14 @@ medical:
   title: Pharmacy and Medicine
   tags: medicine
   color: "#F03071"
-  credit: © Shutterstock / olivier
+  image-credit: © Shutterstock / olivier
   links: [www.mathscareers.org.uk/article/a-matter-of-life-or-death/]
 
 swimming:
   title: Swimsuit Design
   tags: sports calculus
   color: "#2D43BE"
-  credit: MLC School via Wikipedia
+  image-credit: MLC School via Wikipedia
   links:
     - www.mathscareers.org.uk/article/flying-water/
     - plus.maths.org/content/making-gold
@@ -604,7 +604,7 @@ shuffle:
   title: Music Shuffling
   tags: media statistics
   color: "#7D7B80"
-  credit: yog_sothot via stock.xchng
+  image-credit: yog_sothot via stock.xchng
   links: [www.mathscareers.org.uk/article/ipods-really-shuffle/]
 
 tectonic:
@@ -649,7 +649,7 @@ time:
   title: Measuring Time
   tags: technology
   color: "#3B7D7A"
-  credit: priyanphoenix via Morgue File
+  image-credit: priyanphoenix via Morgue File
   links:
     - www.mathscareers.org.uk/article/day/
     - www.mathscareers.org.uk/article/time-sundials-atomic-clocks/
@@ -663,7 +663,7 @@ surveying:
   title: Surveying
   tags: engineering geometry
   color: "#BF7200"
-  credit: lukaszfus via stock.xchng
+  image-credit: lukaszfus via stock.xchng
   links: [www.mathscareers.org.uk/article/finding-lay-land/]
 
 chocolate:
@@ -676,7 +676,7 @@ wildfire:
   color: "#D4580F"
   text: |
     Bushfires are a natural part of many ecosystems but they could be very dangerous for humans. Firefighters can use mathematical simulations to model and predict the progress of the fire. These simulations have to take account of changing vegetation heat and moisture wind hills as well as varying oxygen supply and require advanced mathematics and fluid dynamics.
-  credit: John McColgan via Wikipedia
+  image-credit: John McColgan via Wikipedia
   links:
     - www.mathscareers.org.uk/article/line-fire/
     - www.fs.fed.us/pnw/pubs/journals/pnw_2004_costa001.pdf
@@ -685,7 +685,7 @@ calories:
   title: Counting Calories
   tags: medicine
   color: "#268400"
-  text: When we eat food our bodies accumulate calories (units of energy). When we exercise we lose calories. Mathematics can be used to _count calories_ to model weight loss and construct healthy diets. This is not straightforward because weight loss usually doesn&rsquo;t have a constant rate…
+  text: When we eat food our bodies accumulate calories (units of energy). When we exercise we lose calories. Mathematics can be used to _count calories_ to model weight loss and construct healthy diets. This is not straightforward because weight loss usually doesn’t have a constant rate…
   links:
     - www.mathscareers.org.uk/article/counting-calories/
     - plus.maths.org/content/counting-calories

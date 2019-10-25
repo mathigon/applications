@@ -1,6 +1,6 @@
 # Application of Mathematics
 
-The is a repository of a wide range of real-life applications of mathematics.
+This is a repository of a wide range of real-life applications of mathematics.
 
 The `content.yaml` file contains most of the content, written  in
 [YAML](https://yaml.org) format. The description of every item (the `text:` key)
