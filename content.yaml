@@ -519,11 +519,11 @@ aliens:
   tags: numbertheory science
   color: "#203349"
   text: |
-    _Primes_ are the universal building blocks of numbers not just on Earth but everywhere in the universe. If radio signals from space contain the the sequence of prime numbers – 2 3 5 7 11 13 … – they would almost certainly indicate a non-natural origin and could be the starting point for communication with alien life.
+    _Primes_ are the universal building blocks of numbers not just on Earth but everywhere in the universe. If radio signals from space contain the sequence of prime numbers – 2 3 5 7 11 13 … – they would almost certainly indicate a non-natural origin and could be the starting point for communication with alien life.
 
     A famous signal sent from Earth into space the Arecibo Message consists of a long string of 0s and 1s. The length of the message is the product of two prime numbers 23 × 73 = 1679 which should prompt alien astronomers to reassemble the 0s and 1s into a rectangular image with sides 23 and 73.
 
-    Mathematics can also help estimating the number of extraterrestrial civilisations which we might get to know at some point in the future: using the _Drake Equations_. By considering and estimating many different factors you can calculate that there could be between 1000 and 10 million planets in our Milky Way which are inhabited by intelligent life!
+    Mathematics can also help estimate the number of extraterrestrial civilisations which we might get to know at some point in the future: using the _Drake Equations_. By considering and estimating many different factors you can calculate that there could be between 1000 and 10 million planets in our Milky Way which are inhabited by intelligent life!
   image-credit: C. Padilla NRAO/AUI/NSF
   links:
     - www.seti.org/seti-institute/project/details/early-seti-project-ozma-arecibo-message
